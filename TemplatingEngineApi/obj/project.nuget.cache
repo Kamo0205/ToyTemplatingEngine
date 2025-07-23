@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0tcC2Bwzx8=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Matso\\OneDrive\\Desktop\\C# projects\\ToyTemplating\\TemplatingEngineApi\\TemplatingEngineApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
+}
